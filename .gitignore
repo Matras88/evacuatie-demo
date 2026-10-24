@@ -1,0 +1,16 @@
+# Enkel de statische demo (docs/) is publiek. De broncode blijft lokaal/privé.
+/app/
+/web/
+/scripts/
+/data/
+/Dockerfile
+/docker-compose.yml
+/requirements.txt
+/.env
+/.env.example
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
